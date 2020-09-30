@@ -19,7 +19,6 @@ E-mail: akita106”at”gmail.com
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
-- ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1)  
 - ___Akita, T.*___, Nearly unbiased estimator of contemporary Ne/N based on kinship relationships, Ecology and Evolution, in press, DOI: 10.1002/ece3.6421. [abstract (Open Access)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6421)
 - ___Akita, T.___*, 2020 Nearly unbiased estimator of contemporary effective mother size using within-cohort maternal sibling pairs incorporating parental and non-parental reproductive variations, Heredity, 124, 299-312. [abstract (Open Access)](https://www.nature.com/articles/s41437-019-0271-6) [___Editor's Choice 2019___](https://www.nature.com/collections/ijadaeeeaf)
 - Suda, A., Nishiki, I., Iwasaki, Y., Matsuura, A., ___Akita, T.___, Suzuki, N., Fujiwara, A.*, 2019 Improvement of the Pacific bluefin tuna (Thunnus orientalis) reference genome and development of male-specific DNA markers, Scientific Reports, 9, 14450. [abstract (Open Access)](https://www.nature.com/articles/s41598-019-50978-4)
@@ -37,6 +36,9 @@ E-mail: akita106”at”gmail.com
 - ___Akita, T.___, Sakai, K.*, Iwabuchi, Y., Hoshino, Y., Ye, X., 2006 Acorn Yield Estimation Based on Airborne Multi-spectral Imaging. Journal of the Japanese Society of Agricultural Machinery, 68(4), 49-55 (in Japanese).
 - Ye, X., Sakai, K.*, Asada, S., ___Akita, T.___, Sasao, A., 2005 Airborne hyperspectral imaging for investigation the dynamics of alternate bearing in citrus, Agricultural Information Research, 14(4),261-272.  
 
+## Preprint
+- ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1)  
+
 ## Conference Documents
 - S Nakayama, ___T Akita___, H Fukuda, and S Nakatsuka, 2018, On the latest updates of R package “ssfuturePBF” and the representation of the stock assessment results, ISC/18/PBFWG-1/08.
 - ___T Akita___, H Fukuda, S Nakatsuka, 2017, Preliminary analysis of additional future projections for Pacific bluefin tuna requested by WCPFC NC and IATTC, ISC/17/PBFWG-1, 1-17.
@@ -47,7 +49,7 @@ E-mail: akita106”at”gmail.com
 - ___T Akita___, I Tsuruoka, H Fukuda, K Oshima, Y Takeuchi, 2015, Update of R packages ‘ssfuture’ for stochastic projections in future, ISC/15/PBFWG-2, 1-18.
 
 ## Books (Translation)
-- Living in the Environment, 18th Edition (Chapter 4: Biodiversity and Evolution. Chapter 5: Biodiversity, Species Interactions, and Population Control.). [Amazon]  
+- Living in the Environment, 18th Edition (Chapter 4: Biodiversity and Evolution. Chapter 5: Biodiversity, Species Interactions, and Population Control.). [Amazon](https://www.amazon.co.jp/最新環境百科-松田-裕之/dp/4621300016)  
 
 ## Research grants
 - Grant-in-Aid for Scientific Research (B), Co-PI, 2020-2022 (PI: Hiroshi Takahashi, JSPS KAKENHI Grant Number: 20H03012)
@@ -74,7 +76,7 @@ Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, Inte
 [Heredity](https://www.nature.com/hdy/current-issue) (Monthly)  
 [MBE](https://academic.oup.com/mbe) (Monthly)  
 [GBE](https://academic.oup.com/gbe) (Monthly)  
-[Molecular Ecology (Resources)](https://onlinelibrary.wiley.com/journal/1365294x) (Weekly & Bimonthly)  
+[Molecular Ecology (Resources)](https://onlinelibrary.wiley.com/journal/1365294x) (Biweekly & Bimonthly)  
 [Ecological Applications](https://esajournals.onlinelibrary.wiley.com/journal/19395582/) (Bimonthly)  
 [Evolutionary Applications](https://onlinelibrary.wiley.com/journal/17524571) (Bimonthly)  
 [Methods in Ecology & Evolution](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Bimonthly)  
