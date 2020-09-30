@@ -1,12 +1,13 @@
-# Tetsuya Akita's Home Page
+# Tetsuya Akita's Personal Home Page
 
 ## About
-    Akita Tetsuya
-    Scientist
-    Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Research Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.
-    E-mail: akita106”at”gmail.com
-    [Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)
-    [Researchmap](https://researchmap.jp/akitatetsuya/)
+Akita Tetsuya
+Scientist
+Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Research Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.
+E-mail: akita106”at”gmail.com
+[Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)
+[Researchmap](https://researchmap.jp/akitatetsuya/)
+
 ## CV
     2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency
     2015-2017, Scientist, National Research Institute of Far Seas Fisheries, Fisheries Research Agency
@@ -49,5 +50,5 @@
 3. Grant-in-Aid for Scientific Research (C), PI, 2019-2021 (JSPS KAKENHI Grant Number: 19K06862)
 2. Grant-in-Aid for JSPS Research Fellow (PD), 2012-2014 (JSPS KAKENHI Grant Number: 12J07351)
 1. Grant-in-Aid for JSPS Research Fellow (DC1), 2007-2009 (JSPS KAKENHI Grant Number: 07J55231)
-## Referee for: 
+## Referee for:
 Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, etc...
