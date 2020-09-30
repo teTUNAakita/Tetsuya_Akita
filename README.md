@@ -1,7 +1,7 @@
 # Tetsuya Akita's Personal Home Page
 
 ## About
-Akita Tetsuya  
+**Tetsuya Akita** (Ph.D)  
 Scientist  
 Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Research Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
 E-mail: akita106”at”gmail.com  
@@ -9,20 +9,21 @@ E-mail: akita106”at”gmail.com
 [Researchmap](https://researchmap.jp/akitatetsuya/)  
 
 ## CV
-    2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency
-    2015-2017, Scientist, National Research Institute of Far Seas Fisheries, Fisheries Research Agency
-    2012-2015, JSPS Postdoctoral fellow, Advisor: Dr. Hideki Innan
-    2010-2012, Research Associate, Graduate University for Advanced Studies, Advisor: Dr. Hideki Innan
-    2009-2010, Visiting Student, Department of Ecology & Evolutionary Biology, University of Toronto, Canada, (Peter A. Abrams Lab)
-    2007-2010, Ph.D., Yokohama National University. Advisor: Dr. Hiroyuki Matsuda
-    2007-2010, JSPS Predoctoral fellow (DC1), Advisor: Dr. Hiroyuki Matsuda
-    2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai
+2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency  
+2015-2017, Scientist, National Research Institute of Far Seas Fisheries, Fisheries Research Agency  
+2012-2015, JSPS Postdoctoral fellow, Advisor: Dr. Hideki Innan  
+2010-2012, Research Associate, Graduate University for Advanced Studies, Advisor: Dr. Hideki Innan  
+2009-2010, Visiting Student, Department of Ecology & Evolutionary Biology, University of Toronto, Canada, (Peter A. Abrams Lab)  
+2007-2010, Ph.D., Yokohama National University. Advisor: Dr. Hiroyuki Matsuda  
+2007-2010, JSPS Predoctoral fellow (DC1), Advisor: Dr. Hiroyuki Matsuda  
+2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
+
 ## Publications (with peered reviewed)
-    xx.  Akita, T.*, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint]
-    16. Akita, T.*, Nearly unbiased estimator of contemporary Ne/N based on kinship relationships, Ecology and Evolution, in press, DOI: 10.1002/ece3.6421. [abstract (Open Access)]
-    15. Akita, T.*, 2020 Nearly unbiased estimator of contemporary effective mother size using within-cohort maternal sibling pairs incorporating parental and non-parental reproductive variations, Heredity, 124, 299-312. [abstract (Open Access)] [Editor's Choice 2019]
-    14. Suda, A., Nishiki, I., Iwasaki, Y., Matsuura, A., Akita, T., Suzuki, N., Fujiwara, A.*, 2019 Improvement of the Pacific bluefin tuna (Thunnus orientalis) reference genome and development of male-specific DNA markers, Scientific Reports, 9, 14450. [abstract (Open Access)]
-    13. Ijima, H., Jusup, M., Takada, T., Akita, T., Matsuda. H., Klanjscek, T., 2019 Effects of environmental change and early-life stochasticity on Pacific bluefin tuna population growth, Marine Environmental Research, 149, 18-26. [abstract]
+-  Akita, T.*, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint]  
+16-. Akita, T.*, Nearly unbiased estimator of contemporary Ne/N based on kinship relationships, Ecology and Evolution, in press, DOI: 10.1002/ece3.6421. [abstract (Open Access)]
+15. Akita, T.*, 2020 Nearly unbiased estimator of contemporary effective mother size using within-cohort maternal sibling pairs incorporating parental and non-parental reproductive variations, Heredity, 124, 299-312. [abstract (Open Access)] [Editor's Choice 2019]
+14. Suda, A., Nishiki, I., Iwasaki, Y., Matsuura, A., Akita, T., Suzuki, N., Fujiwara, A.*, 2019 Improvement of the Pacific bluefin tuna (Thunnus orientalis) reference genome and development of male-specific DNA markers, Scientific Reports, 9, 14450. [abstract (Open Access)]
+13. Ijima, H., Jusup, M., Takada, T., Akita, T., Matsuda. H., Klanjscek, T., 2019 Effects of environmental change and early-life stochasticity on Pacific bluefin tuna population growth, Marine Environmental Research, 149, 18-26. [abstract]
     12. Akita, T.*, 2018 Statistical test for detecting overdispersion in offspring number based on kinship information, Population Ecology, 60, 297-308. [abstract] [Nature Springer SharedIt]
     11.  Akita, T., Takuno, S., Innan, H.*, 2018 Coalescent framework for prokaryotes undergoing interspecific homologous recombination, Heredity, 120, 474-484. [abstract] [Author Manuscript] [software: msPro]
     10. Nakatsuka, S.*, Ishida Y., Fukuda H., Akita, T., 2017 A limit reference point to prevent recruitment overfishing of Pacific bluefin tuna, Marine Policy, 78, 107-113. [abstract]
