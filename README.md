@@ -1,12 +1,12 @@
 # Tetsuya Akita's Personal Home Page
 
 ## About
-Akita Tetsuya
-Scientist
-Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Research Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.
-E-mail: akita106”at”gmail.com
-[Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)
-[Researchmap](https://researchmap.jp/akitatetsuya/)
+Akita Tetsuya  
+Scientist  
+Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Research Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
+E-mail: akita106”at”gmail.com  
+[Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)  
+[Researchmap](https://researchmap.jp/akitatetsuya/)  
 
 ## CV
     2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency
