@@ -40,6 +40,7 @@ E-mail: akita106”at”gmail.com
 - ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1)  
 
 ## Conference Documents
+- J Imoto, A Fujiwara, C Watanabe, M yoda, A Matsuura, T ___Akita*___, 2020, Preliminary analysis of population structure of Trachurus japonicus, FRA-SA2020-SC01-201.
 - S Nakayama, ___T Akita___, H Fukuda, and S Nakatsuka, 2018, On the latest updates of R package “ssfuturePBF” and the representation of the stock assessment results, ISC/18/PBFWG-1/08.
 - ___T Akita___, H Fukuda, S Nakatsuka, 2017, Preliminary analysis of additional future projections for Pacific bluefin tuna requested by WCPFC NC and IATTC, ISC/17/PBFWG-1, 1-17.
 - H Ijima, O Sakai, ___T Akita___, H Kiyofuji, 2016, New future projection program for North Pacific albacore tuna (Thunnus alalunga) : considering two-sex age-structured population dynamics, ISC/16/ALBWG-2, 1- 11.
