@@ -7,7 +7,7 @@ Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Resea
 E-mail: akita106”at”gmail.com  
 [Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)  
 [Researchmap](https://researchmap.jp/akitatetsuya/)  
-[GitHub][https://github.com/teTUNAakita]
+[GitHub](https://github.com/teTUNAakita)
 
 ## CV
 2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency  
@@ -32,10 +32,10 @@ E-mail: akita106”at”gmail.com
 - ___Akita, T.___, Takuno, S., Innan, H.*, 2012 Modeling evolutionary growth of a microRNA-mediated regulation system, **Journal of Theoretical Biology**, 311, 54-65. [abstract](https://www.sciencedirect.com/science/article/abs/pii/S0022519312003451)
 - Kamo, T.*, Hayashi, T., ___Akita, T.___, 2011 Potential effects of life history evolution on ecological risk assessment, **Ecological Applications**, 21(8), 3191-3198. [abstract](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/11-0234.1)
 - ___Akita, T.*___, Matsuda, H., 2010 Why do sex ratio dimorphisms exist in Quercus masting? Evolution of imperfect synchronous reproduction in Monoecious trees, **Journal of Theoretical Biology**, 264, 223-236. [abstract](https://www.sciencedirect.com/science/article/abs/pii/S0022519310000500)
-- Yao, Z., Sakai, K.*, Ye, X., ___Akita, T.___, Iwabuchi, Y., Hoshino,Y., 2008 Airborne Hyperspectral Imaging for Estimating Acorn yield based on PLS B-Matrix Calibration Technique, **Ecological Informatics**, 3(3), 237-244. [abstract][https://www.sciencedirect.com/science/article/pii/S1574954108000216]
-- ___Akita, T.___, Sakai, K.*, Iwabuchi, Y., Hoshino, Y., Ye, X., 2008. Spatial autocorrelation in masting phenomena of Quercus serrata detected by multi-spectral imaging. **Ecological Modelling**, 215(1-3), 217-224. [abstract][https://www.sciencedirect.com/science/article/abs/pii/S0304380008001014]
-- ___Akita, T.___, Sakai, K.*, Iwabuchi, Y., Hoshino, Y., Ye, X., 2006 Acorn Yield Estimation Based on Airborne Multi-spectral Imaging. **Journal of the Japanese Society of Agricultural Machinery**, 68(4), 49-55 (in Japanese). [abstract (Open Access][https://www.jstage.jst.go.jp/article/jsam1937/68/4/68_4_49/_article]
-- Ye, X., Sakai, K.*, Asada, S., ___Akita, T.___, Sasao, A., 2005 Airborne hyperspectral imaging for investigation the dynamics of alternate bearing in citrus, **Agricultural Information Research**, 14(4),261-272.  [abstract (Open Access)][https://www.jstage.jst.go.jp/article/air/14/4/14_261/_article/-char/en]
+- Yao, Z., Sakai, K.*, Ye, X., ___Akita, T.___, Iwabuchi, Y., Hoshino,Y., 2008 Airborne Hyperspectral Imaging for Estimating Acorn yield based on PLS B-Matrix Calibration Technique, **Ecological Informatics**, 3(3), 237-244. [abstract](https://www.sciencedirect.com/science/article/pii/S1574954108000216)
+- ___Akita, T.___, Sakai, K.*, Iwabuchi, Y., Hoshino, Y., Ye, X., 2008. Spatial autocorrelation in masting phenomena of Quercus serrata detected by multi-spectral imaging. **Ecological Modelling**, 215(1-3), 217-224. [abstract](https://www.sciencedirect.com/science/article/abs/pii/S0304380008001014)
+- ___Akita, T.___, Sakai, K.*, Iwabuchi, Y., Hoshino, Y., Ye, X., 2006 Acorn Yield Estimation Based on Airborne Multi-spectral Imaging. **Journal of the Japanese Society of Agricultural Machinery**, 68(4), 49-55 (in Japanese). [abstract (Open Access](https://www.jstage.jst.go.jp/article/jsam1937/68/4/68_4_49/_article)
+- Ye, X., Sakai, K.*, Asada, S., ___Akita, T.___, Sasao, A., 2005 Airborne hyperspectral imaging for investigation the dynamics of alternate bearing in citrus, **Agricultural Information Research**, 14(4),261-272.  [abstract (Open Access)](https://www.jstage.jst.go.jp/article/air/14/4/14_261/_article/-char/en)
 
 ## Preprint
 - ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1)  
