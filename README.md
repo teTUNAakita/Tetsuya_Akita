@@ -1,8 +1,8 @@
 # Tetsuya Akita's Personal Home Page
 
 ## About
-**Tetsuya Akita　秋田鉄也** (Ph.D)  
-Scientist  
+**Tetsuya Akita 秋田鉄也** (Ph.D)  
+Senior Scientist  
 Fisheries Data Sciences Division, Fisheries Resources Institute, Japan Fisheries Research and Education Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
 E-mail: akita106”at”gmail.com  
 [Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)  
@@ -10,6 +10,7 @@ E-mail: akita106”at”gmail.com
 [GitHub](https://github.com/teTUNAakita)
 
 ## CV
+2021-, Senior Scientist, National Research and Development Agency, Japan Fisheries Research and Education Agency  
 2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency  
 2015-2017, Scientist, National Research Institute of Far Seas Fisheries, Fisheries Research Agency  
 2012-2015, JSPS Postdoctoral fellow, Advisor: Dr. Hideki Innan  
