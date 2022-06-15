@@ -1,9 +1,9 @@
 # Tetsuya Akita's Personal Home Page
 
 ## About
-**Tetsuya Akita** (Ph.D)  
+**Tetsuya Akita　秋田鉄也** (Ph.D)  
 Scientist  
-Fisheries Data Sciences Division, Fisheries Resources Institute, Fisheries Research Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
+Fisheries Data Sciences Division, Fisheries Resources Institute, Japan Fisheries Research and Education Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
 E-mail: akita106”at”gmail.com  
 [Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)  
 [Researchmap](https://researchmap.jp/akitatetsuya/)  
@@ -20,7 +20,7 @@ E-mail: akita106”at”gmail.com
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
-- ___Akita, T.*___, submitted, Estimating contemporary migration numbers of adults based on kinship relationships in iteroparous species. [PrePrint](https://www.biorxiv.org/content/10.1101/2022.03.09.483709v1)  
+- ___Akita, T.*___, in revision, Estimating contemporary migration numbers of adults based on kinship relationships in iteroparous species. [PrePrint](https://www.biorxiv.org/content/10.1101/2022.03.09.483709v1)  
 - ___Akita, T.*___, 2020 Nearly unbiased estimator of contemporary Ne/N based on kinship relationships, **Ecology and Evolution**, 10, 10342-10352. [abstract (Open Access)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6421)
 - ___Akita, T.___*, 2020 Nearly unbiased estimator of contemporary effective mother size using within-cohort maternal sibling pairs incorporating parental and non-parental reproductive variations, **Heredity**, 124, 299-312. [abstract (Open Access)](https://www.nature.com/articles/s41437-019-0271-6) [___Editor's Choice 2019___](https://www.nature.com/collections/ijadaeeeaf)
 - Suda, A., Nishiki, I., Iwasaki, Y., Matsuura, A., ___Akita, T.___, Suzuki, N., Fujiwara, A.*, 2019 Improvement of the Pacific bluefin tuna (Thunnus orientalis) reference genome and development of male-specific DNA markers, **Scientific Reports**, 9, 14450. [abstract (Open Access)](https://www.nature.com/articles/s41598-019-50978-4)
