@@ -39,11 +39,7 @@ E-mail: akita106”at”gmail.com
 - ___Akita, T.___, Sakai, K.*, Iwabuchi, Y., Hoshino, Y., Ye, X., 2006 Acorn Yield Estimation Based on Airborne Multi-spectral Imaging. **Journal of the Japanese Society of Agricultural Machinery**, 68(4), 49-55 (in Japanese). [abstract (Open Access](https://www.jstage.jst.go.jp/article/jsam1937/68/4/68_4_49/_article)
 - Ye, X., Sakai, K.*, Asada, S., ___Akita, T.___, Sasao, A., 2005 Airborne hyperspectral imaging for investigation the dynamics of alternate bearing in citrus, **Agricultural Information Research**, 14(4),261-272.  [abstract (Open Access)](https://www.jstage.jst.go.jp/article/air/14/4/14_261/_article/-char/en)
 
-## Preprint
-- ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1)  
-
 ## Conference Documents
-- J Imoto, A Fujiwara, C Watanabe, M yoda, A Matsuura, T ___Akita*___, 2020, Preliminary analysis of population structure of Trachurus japonicus, FRA-SA2020-SC01-201 (in Japanese).
 - S Nakayama, ___T Akita___, H Fukuda, and S Nakatsuka, 2018, On the latest updates of R package “ssfuturePBF” and the representation of the stock assessment results, ISC/18/PBFWG-1/08.
 - ___T Akita___, H Fukuda, S Nakatsuka, 2017, Preliminary analysis of additional future projections for Pacific bluefin tuna requested by WCPFC NC and IATTC, ISC/17/PBFWG-1, 1-17.
 - H Ijima, O Sakai, ___T Akita___, H Kiyofuji, 2016, New future projection program for North Pacific albacore tuna (Thunnus alalunga) : considering two-sex age-structured population dynamics, ISC/16/ALBWG-2, 1- 11.
@@ -51,6 +47,10 @@ E-mail: akita106”at”gmail.com
 - ___T Akita___, I Tsuruoka, H Fukuda, 2016, Update of a projection software to represent a stock-recruitment relationship using flexible assumptions, ISC/16/PBFWG-1, 1-13.
 - H Fukuda, O Sakai, ___T Akita___, I Tsuruoka, Y Tei, S Iwata, K Oshima, 2016, Preliminary population dynamics model for the 2016 stock assessment of Pacific Bluefin tuna, ISC/16/PBFWG-1/07.
 - ___T Akita___, I Tsuruoka, H Fukuda, K Oshima, Y Takeuchi, 2015, Update of R packages ‘ssfuture’ for stochastic projections in future, ISC/15/PBFWG-2, 1-18.
+
+## Preprint
+
+- ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1) (Note: this preprint is currently associated with the published paper in Heredity by BioRxiv. But this preprint was conducted with a totally different approach than the paper...)   
 
 ## Books (Translation)
 - Living in the Environment, 18th Edition (Chapter 4: Biodiversity and Evolution. Chapter 5: Biodiversity, Species Interactions, and Population Control.). [Amazon](https://www.amazon.co.jp/最新環境百科-松田-裕之/dp/4621300016)  
