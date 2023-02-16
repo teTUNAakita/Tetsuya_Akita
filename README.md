@@ -50,7 +50,7 @@ E-mail: akita106”at”gmail.com
 
 ## Preprint
 
-- ___Akita, T.*___, Ecological inference based on kinship assignment: a new approach to obtain contemporary information for conservation purposes. [PrePrint](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/279)
+- ___Akita, T.*___, Ecological inference based on kinship assignment: a new approach to obtain contemporary information for conservation purposes (in Japanese). [PrePrint](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/279)
 
 - ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1) (Note: this preprint is currently associated with the published paper in Heredity by BioRxiv. But this preprint was conducted with a totally different approach than the paper...)   
 
