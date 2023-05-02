@@ -52,6 +52,8 @@ E-mail: akita106”at”gmail.com
 
 ## Preprint
 
+- Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna. [PrePrint](https://doi.org/10.22541/au.168267602.25993369/v1)
+
 - ___Akita, T.*___, Ecological inference based on kinship assignment: a new approach to obtain contemporary information for conservation purposes (in Japanese). [PrePrint](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/279)
 
 - ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1) (Note: this preprint is currently associated with the published paper in Heredity by BioRxiv. But this preprint was conducted with a totally different approach than the paper...)   
