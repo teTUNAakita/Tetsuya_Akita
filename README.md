@@ -77,8 +77,8 @@ Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, Inte
 
 ## General
 [Nature](https://www.nature.com)  
-[Science](https://science.sciencemag.org)
-[Science Advances](https://www.science.org/journal/sciadv)
+[Science](https://science.sciencemag.org)  
+[Science Advances](https://www.science.org/journal/sciadv)  
 [PNAS](https://www.pnas.org)  
 [PLOS B](https://journals.plos.org/plosbiology/issue) (Monthly)  
 [Nature Communications (Ecology)](https://www.nature.com/subjects/ecology/ncomms)    
