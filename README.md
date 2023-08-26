@@ -21,6 +21,8 @@ E-mail: akita106”at”gmail.com
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
+- Mizuno, H., Nakayama, K., Akita, T., Hashiguchi, Y., Osugi, T., Takeshima, H., Detailed kinship estimation for detecting bias among breeding families in a reintroduced population of the endangered bagrid catfish _Tachysurus ichikawai_, **Submitted**. [PrePrint](https://www.authorea.com/doi/full/10.22541/au.169277525.54529402/v1)
+- Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna, **Submitted**. [PrePrint](https://doi.org/10.22541/au.168267602.25993369/v1)
 - Naito, T.\*, Nakayama, K., Takeshima, H., Hashiguchi, Y., ___Akita, T.___, Yamasaki, YY., Mishina, T., Takeshita, N., Nagano, AJ., Takahashi, H., 2023, The detailed population genetic structure of the rare endangered latid fish akame _Lates japonicus_ with extremely low genetic diversity revealed from single-nucleotide polymorphisms, **Conservation Genetics**, 24, 523-535. [abstract](https://link.springer.com/article/10.1007/s10592-023-01517-2)
 - ___Akita, T.*___, 2022, Estimating contemporary migration numbers of adults based on kinship relationships in iteroparous species, **Molecular Ecology Resources**, 22:8, 3006-3017 [abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13682), [shareable-link](https://onlinelibrary.wiley.com/share/author/NQIPWH8SBTYK4ADEQHEQ?target=10.1111/1755-0998.13682), [PrePrint](https://www.biorxiv.org/content/10.1101/2022.03.09.483709v1)
 - ___Akita, T.*___, 2020, Nearly unbiased estimator of contemporary Ne/N based on kinship relationships, **Ecology and Evolution**, 10, 10342-10352. [abstract (Open Access)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6421)
@@ -51,9 +53,6 @@ E-mail: akita106”at”gmail.com
 - ___T Akita___, I Tsuruoka, H Fukuda, K Oshima, Y Takeuchi, 2015, Update of R packages ‘ssfuture’ for stochastic projections in future, ISC/15/PBFWG-2, 1-18.
 
 ## Preprint
-
-- Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna. [PrePrint](https://doi.org/10.22541/au.168267602.25993369/v1)
-
 - ___Akita, T.*___, Ecological inference based on kinship assignment: a new approach to obtain contemporary information for conservation purposes (in Japanese). [PrePrint](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/279)
 
 - ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1) (Note: this preprint is currently associated with the published paper in Heredity by BioRxiv. But this preprint was conducted with a totally different approach than the paper...)   
