@@ -53,8 +53,8 @@ E-mail: akita106”at”gmail.com
 - H Fukuda, O Sakai, ___T Akita___, I Tsuruoka, Y Tei, S Iwata, K Oshima, 2016, Preliminary population dynamics model for the 2016 stock assessment of Pacific Bluefin tuna, ISC/16/PBFWG-1/07.
 - ___T Akita___, I Tsuruoka, H Fukuda, K Oshima, Y Takeuchi, 2015, Update of R packages ‘ssfuture’ for stochastic projections in future, ISC/15/PBFWG-2, 1-18.
 
-## Preprint
-- ___Akita, T.*___, Ecological inference based on kinship assignment: a new approach to obtain contemporary information for conservation purposes (in Japanese). [PrePrint](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/279)
+## Miscellaneous
+- ___Akita, T.*___, 2023, Ecological inference based on kinship assignment: a new approach to obtain contemporary information for conservation purposes (in Japanese), **Fish genetics and breeding science**, 52(2), 81-90. [PrePrint](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/279)
 
 - ___Akita, T.*___, Nearly unbiased estimator of adult population size based on within-cohort half-sibling pairs incorporating flexible reproductive variation. [PrePrint](https://www.biorxiv.org/content/10.1101/422659v1) (Note: this preprint is currently associated with the published paper in Heredity by BioRxiv. But this preprint was conducted with a totally different approach than the paper...)   
 
