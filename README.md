@@ -21,6 +21,7 @@ E-mail: akita106”at”gmail.com
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
+- Hirao, AS., Imoto, J., Fujiwara, A., Watanabe, C., Yoda, M., Matsuura, A., ___Akita, T.___, Genome-wide SNP analysis coupled with hatchday and seascape information reveals panmixia in a classical marine species, the Japanese jack mackerel (Trachurus japonicus), **Submitted**.
 - Noda, S., ___Akita, T.___, Ueda, R., Katsumura, T., Hashiguchi, Y., Takeshima, H., Sato, T., Optimal SNP filtering strategies for pedigree reconstruction: A case study with wild red-spotted masu salmon population, **in revision**.
 - Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna, **in revision**. [PrePrint](https://doi.org/10.22541/au.168267602.25993369/v1)
 - Mizuno, H., Nakayama, K., ___Akita, T.___, Hashiguchi, Y., Osugi, T., Takeshima, H., **Accepted**, Detailed kinship estimation for detecting bias among breeding families in a reintroduced population of the endangered bagrid catfish _Tachysurus ichikawai_, **Population Ecology**. [PrePrint](https://www.authorea.com/doi/full/10.22541/au.169277525.54529402/v1)
