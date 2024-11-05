@@ -23,7 +23,7 @@ E-mail: akita106”at”gmail.com
 ## Publications (with peered reviewed)
 - ___Akita, T.*___, **Submitted**, Strong dependence of demographic stochasticity on a small effective number of breeders in iteroparous species, [PrePrint](https://www.biorxiv.org/content/10.1101/2024.06.05.597532v1)
 - Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna, **in revision**. [PrePrint](https://doi.org/10.22541/au.168267602.25993369/v1)
-- Hirao, AS., Imoto, J., Fujiwara, A., Watanabe, C., Yoda, M., Matsuura, A., ___Akita, T.___, in press, Genome-wide SNP analysis coupled with hatchday and seascape information reveals panmixia in a classical marine species, the Japanese jack mackerel (_Trachurus japonicus_), **Fisheries Research**. [abstract](https://www.sciencedirect.com/science/article/pii/S0165783624002108)
+- Hirao, AS., Imoto, J., Fujiwara, A., Watanabe, C., Yoda, M., Matsuura, A., ___Akita, T.___, 2024, Genome-wide SNP analysis coupled with hatchday and seascape information reveals panmixia in a classical marine species, the Japanese jack mackerel (_Trachurus japonicus_), **Fisheries Research**, 279, 107146. [abstract](https://www.sciencedirect.com/science/article/pii/S0165783624002108)
 - Noda, S., ___Akita, T.___, Ueda, R., Katsumura, T., Hashiguchi, Y., Takeshima, H., Sato, T., 2024, Optimal SNP filtering strategies for pedigree reconstruction: A case study with wild red-spotted masu salmon population, **Population Ecology**. [abstract (Open Access)](https://doi.org/10.1002/1438-390X.12192)
 - Mizuno, H., Nakayama, K., ___Akita, T.___, Hashiguchi, Y., Osugi, T., Takeshima, H., 2024, Detailed kinship estimation for detecting bias among breeding families in a reintroduced population of the endangered bagrid catfish _Tachysurus ichikawai_, **Population Ecology**. [abstract (Open Access)](https://doi.org/10.1002/1438-390X.12183)
 - Naito, T.\*, Nakayama, K., Takeshima, H., Hashiguchi, Y., ___Akita, T.___, Yamasaki, YY., Mishina, T., Takeshita, N., Nagano, AJ., Takahashi, H., 2023, The detailed population genetic structure of the rare endangered latid fish akame _Lates japonicus_ with extremely low genetic diversity revealed from single-nucleotide polymorphisms, **Conservation Genetics**, 24, 523-535. [abstract](https://link.springer.com/article/10.1007/s10592-023-01517-2)
@@ -92,10 +92,11 @@ Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, Inte
 [Heredity](https://www.nature.com/hdy/current-issue) (Monthly)[](2023,3.8)  
 [MBE](https://academic.oup.com/mbe) (Monthly)[](2023,10.7)  
 [GBE](https://academic.oup.com/gbe) (Monthly)[](2023,3.3)  
-[Molecular Ecology (Resources)](https://onlinelibrary.wiley.com/journal/1365294x) (Biweekly & Bimonthly)[](2023,4.9/7.7)  
+[Molecular Ecology (Resources)](https://onlinelibrary.wiley.com/journal/1365294x) (Biweekly & Monthly)[](2023,4.9/7.7)  
 [Ecological Applications](https://esajournals.onlinelibrary.wiley.com/journal/19395582/) (Bimonthly)[](2023,5.0)  
-[Evolutionary Applications](https://onlinelibrary.wiley.com/journal/17524571) (Bimonthly)[](2023,4.1)  
-[Methods in Ecology & Evolution](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Bimonthly)[](2023,6.6)  
+[Evolutionary Applications](https://onlinelibrary.wiley.com/journal/17524571) (Monthly)[](2023,4.1)  
+[Methods in Ecology & Evolution](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Monthly)[](2023,6.6)
+[Global Change Biology](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Monthly) 
 
 ## Fisheries Science
 [Canadian Journal of Fisheries and Aquatic Sciences](https://www.nrcresearchpress.com/journal/cjfas) (Monthly)[](2023,2.4)   
