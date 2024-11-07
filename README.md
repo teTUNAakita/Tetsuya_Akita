@@ -96,7 +96,7 @@ Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, Inte
 [Ecological Applications](https://esajournals.onlinelibrary.wiley.com/journal/19395582/) (Bimonthly)[](2023,5.0)  
 [Evolutionary Applications](https://onlinelibrary.wiley.com/journal/17524571) (Monthly)[](2023,4.1)  
 [Methods in Ecology & Evolution](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Monthly)[](2023,6.6)  
-[Global Change Biology](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Monthly)[](2024,10.8)
+[Global Change Biology](https://onlinelibrary.wiley.com/toc/13652486/current) (Monthly)[](2024,10.8)
 
 ## Fisheries Science
 [Canadian Journal of Fisheries and Aquatic Sciences](https://www.nrcresearchpress.com/journal/cjfas) (Monthly)[](2023,2.4)   
