@@ -92,11 +92,13 @@ Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, Inte
 [Heredity](https://www.nature.com/hdy/current-issue) (Monthly)[](2023,3.8)  
 [MBE](https://academic.oup.com/mbe) (Monthly)[](2023,10.7)  
 [GBE](https://academic.oup.com/gbe) (Monthly)[](2023,3.3)  
-[Molecular Ecology (Resources)](https://onlinelibrary.wiley.com/journal/1365294x) (Biweekly & Monthly)[](2023,4.9/7.7)  
+[Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x) (Biweekly)[](2023,4.9)  
+[Molecular Ecology Resources](https://onlinelibrary.wiley.com/journal/1365294x) (Monthly)[](2023,7.7)  
 [Ecological Applications](https://esajournals.onlinelibrary.wiley.com/journal/19395582/) (Bimonthly)[](2023,5.0)  
+[Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/toc/13652664/current) (Monthly)[](2023,5.0)  
 [Evolutionary Applications](https://onlinelibrary.wiley.com/journal/17524571) (Monthly)[](2023,4.1)  
 [Methods in Ecology & Evolution](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/current) (Monthly)[](2023,6.6)  
-[Global Change Biology](https://onlinelibrary.wiley.com/toc/13652486/current) (Monthly)[](2024,10.8)
+[Global Change Biology](https://onlinelibrary.wiley.com/toc/13652486/current) (Monthly)[](2023,10.8)
 
 ## Fisheries Science
 [Canadian Journal of Fisheries and Aquatic Sciences](https://www.nrcresearchpress.com/journal/cjfas) (Monthly)[](2023,2.4)   
