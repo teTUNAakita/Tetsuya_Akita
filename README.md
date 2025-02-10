@@ -22,7 +22,7 @@ E-mail: akita106”at”gmail.com
 
 ## Publications (with peered reviewed)
 - ___Akita, T.*___, **Submitted**, Strong dependence of demographic stochasticity on a small effective number of breeders in iteroparous species, [PrePrint](https://www.biorxiv.org/content/10.1101/2024.06.05.597532v1)
-- ___Akita, T.*___, Wang, J., 2025, Ecological perspectives of pedigree reconstruction with genome-wide data, **Population Ecology**. [abstract](https://doi.org/10.1002/1438-390X.12207)  
+- ___Akita, T.*___, Wang, J., 2025, Preface for the special feature on “Ecological perspectives of pedigree reconstruction with genome-wide data”, **Population Ecology**. [abstract](https://doi.org/10.1002/1438-390X.12207)  
 - Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., 2025, Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna, **Population Ecology**. [abstract (Open Access)](https://esj-journals.onlinelibrary.wiley.com/doi/10.1002/1438-390X.12205)
 - Hirao, AS., Imoto, J., Fujiwara, A., Watanabe, C., Yoda, M., Matsuura, A., ___Akita, T.___, 2024, Genome-wide SNP analysis coupled with hatchday and seascape information reveals panmixia in a classical marine species, the Japanese jack mackerel (_Trachurus japonicus_), **Fisheries Research**, 279, 107146. [abstract](https://www.sciencedirect.com/science/article/pii/S0165783624002108)
 - Noda, S., ___Akita, T.___, Ueda, R., Katsumura, T., Hashiguchi, Y., Takeshima, H., Sato, T., 2024, Optimal SNP filtering strategies for pedigree reconstruction: A case study with wild red-spotted masu salmon population, **Population Ecology**. [abstract (Open Access)](https://doi.org/10.1002/1438-390X.12192)
