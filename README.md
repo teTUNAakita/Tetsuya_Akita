@@ -21,7 +21,7 @@ E-mail: akita106”at”gmail.com
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
-- ___Akita, T.*___, **Submitted**, Strong dependence of demographic stochasticity on a small effective number of breeders in iteroparous species, [PrePrint](https://www.biorxiv.org/content/10.1101/2024.06.05.597532v1)
+- ___Akita, T.*___, **Submitted**, A theoretical framework linking the effective number of breeders to demographic stochasticity in iteroparous species, [PrePrint](https://www.biorxiv.org/content/10.1101/2024.06.05.597532v2)
 - ___Akita, T.*___, Wang, J., 2025, Preface for the special feature on “Ecological perspectives of pedigree reconstruction with genome-wide data”, **Population Ecology**. [abstract](https://doi.org/10.1002/1438-390X.12207)  
 - Tsukahara, Y., Nakamichi, R., Matsuura, A., ___Akita, T.___, Fujiwara, A., Suzuki, N., 2025, Comparison of kinship-identification methods for robust stock assessment using close-kin mark–recapture data for Pacific bluefin tuna, **Population Ecology**. [abstract (Open Access)](https://esj-journals.onlinelibrary.wiley.com/doi/10.1002/1438-390X.12205)
 - Hirao, AS., Imoto, J., Fujiwara, A., Watanabe, C., Yoda, M., Matsuura, A., ___Akita, T.___, 2024, Genome-wide SNP analysis coupled with hatchday and seascape information reveals panmixia in a classical marine species, the Japanese jack mackerel (_Trachurus japonicus_), **Fisheries Research**, 279, 107146. [abstract](https://www.sciencedirect.com/science/article/pii/S0165783624002108)
