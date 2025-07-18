@@ -72,7 +72,7 @@ E-mail: akita106”at”gmail.com
 - Grant-in-Aid for Scientific Research (B), Co-PI, 2020-2022 (PI: Hiroshi Takahashi, JSPS KAKENHI Grant Number: 20H03012)
 - Grant-in-Aid for Scientific Research (C), PI, 2019-2022 (JSPS KAKENHI Grant Number: 19K06862)
 - Grant-in-Aid for JSPS Research Fellow (PD), 2012-2014 (JSPS KAKENHI Grant Number: 12J07351)
-- Grant-in-Aid for JSPS Research Fellow (DC1), 2007-2009 (JSPS KAKENHI4 Grant Number: 07J55231)  
+- Grant-in-Aid for JSPS Research Fellow (DC1), 2007-2009 (JSPS KAKENHI Grant Number: 07J55231)  
 
 ## Referee for:
 Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, Proceedings of the Japan Academy B, Evolutionary Applications, Chaos Solitons and Fractals, Population Ecology, Ecology and Evolution, Molecular Ecology, etc...
