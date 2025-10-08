@@ -78,13 +78,13 @@ ORCID: 0000-0003-4940-886X
 ## Referee for:
 Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, Proceedings of the Japan Academy B, Evolutionary Applications, Chaos Solitons and Fractals, Population Ecology, Ecology and Evolution, Molecular Ecology, etc...
 
-# Journals
+# Journals[](コメントアウトされているのはインパクトファクター値)  
 
 ## General
 [Nature](https://www.nature.com)[](2023,64.8https://www.bioxbio.com/)  
-[Science](https://science.sciencemag.org)[](2023,56.9)  
-[Science Advances](https://www.science.org/journal/sciadv)[](2023,13.6)  
-[PNAS](https://www.pnas.org)[](2023,11.1)  
+[Science](https://www.science.org/toc/science/current)[](2023,56.9)  
+[Science Advances](https://www.science.org/toc/sciadv/current)[](2023,13.6)  
+[PNAS](https://www.pnas.org/toc/pnas/current)[](2023,11.1)  
 [PLOS B](https://journals.plos.org/plosbiology/issue) (Monthly)[](2023,9.8)  
 [Nature Communications (Ecology)](https://www.nature.com/subjects/ecology/ncomms) [](2023,16.6)    
 
