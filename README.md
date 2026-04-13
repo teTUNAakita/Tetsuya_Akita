@@ -24,6 +24,7 @@ ORCID: 0000-0003-4940-886X
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
+- Hirao, SA., Sakuma, K., ___Akita, T.___, Chiba, SN., submitted, Genetic population structure and demographic history of Pacific cod in Japanese waters: Implications for stock identification using SNP markers. [PrePrint](https://doi.org/10.64898/2026.03.11.710969)  
 - ___Akita, T.*___, Tsukahara, Y., Tanaka, H., submitted, Inferring the number of spawning events from young-of-year genomic samples and otolith-derived birth dates: a richness-estimator perspective. [PrePrint](https://doi.org/10.64898/2026.01.19.700488)  
 - ___Akita, T.*___, 2025, A theoretical framework linking the effective number of breeders to demographic stochasticity in iteroparous species, **Genetics**, 231, iyaf152. [abstract](https://doi.org/10.1093/genetics/iyaf152), [PrePrint](https://www.biorxiv.org/content/10.1101/2024.06.05.597532v2), **[Research Highlight](https://www.fra.go.jp/home/kenkyushokai/ronbun/2025/20250804.html)**  
 - ___Akita, T.*___, Wang, J., 2025, Preface for the special feature on “Ecological perspectives of pedigree reconstruction with genome-wide data”, **Population Ecology**, 67(2), 93–95. [abstract](https://doi.org/10.1002/1438-390X.12207)  
