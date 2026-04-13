@@ -2,8 +2,8 @@
 
 ## About
 **Tetsuya Akita 秋田鉄也** (Ph.D)  
-Senior Scientist  
-Fisheries Data Sciences Division, Fisheries Resources Institute, Japan Fisheries Research and Education Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
+Group Head  
+Bioinformatics and Biosciences Division, Fisheries Resources Institute, Japan Fisheries Research and Education Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
 E-mail: akita106”at”gmail.com  
 Researcher number: 60625507  
 ORCID: 0000-0003-4940-886X  
@@ -12,7 +12,8 @@ ORCID: 0000-0003-4940-886X
 [GitHub](https://github.com/teTUNAakita)
 
 ## CV
-2021-, Senior Scientist, National Research and Development Agency, Japan Fisheries Research and Education Agency  
+2026-, Group Head, Fisheries Resources Institute, Japan Fisheries Research and Education Agency  
+2021-, Senior Scientist, Fisheries Resources Institute, Japan Fisheries Research and Education Agency  
 2018-, Scientist, National Research Institute Fisheries Science, Fisheries Research Agency  
 2015-2017, Scientist, National Research Institute of Far Seas Fisheries, Fisheries Research Agency  
 2012-2015, JSPS Postdoctoral fellow, Advisor: Dr. Hideki Innan  
@@ -77,7 +78,7 @@ ORCID: 0000-0003-4940-886X
 - Grant-in-Aid for JSPS Research Fellow (DC1), 2007-2009 (JSPS KAKENHI Grant Number: 07J55231)  
 
 ## Referee for:
-Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, Proceedings of the Japan Academy B, Evolutionary Applications, Chaos Solitons and Fractals, Population Ecology, Ecology and Evolution, Molecular Ecology, etc...
+Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, Proceedings of the Japan Academy B, Evolutionary Applications, Chaos Solitons and Fractals, Population Ecology, Ecology and Evolution, Molecular Ecology, Molecular Ecology Resources, etc...
 
 # Journals[](コメントアウトされているのはインパクトファクター値)  
 
