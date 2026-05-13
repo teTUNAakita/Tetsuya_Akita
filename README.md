@@ -6,7 +6,9 @@ Group Head
 Bioinformatics and Biosciences Division, Fisheries Resources Institute, Japan Fisheries Research and Education Agency, Fukuura 2-12-4, Kanazawa, Yokohama, Kanagawa 236-8648, Japan.  
 E-mail: akita106”at”gmail.com  
 Researcher number: 60625507  
+Web of Science ResearcherID: AAW-2686-2021  
 ORCID: 0000-0003-4940-886X  
+
 [Google Citation](https://scholar.google.com.au/citations?user=Zn1DbAMAAAAJ&hl=en)  
 [Researchmap](https://researchmap.jp/akitatetsuya/)  
 [GitHub](https://github.com/teTUNAakita)
