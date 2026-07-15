@@ -72,6 +72,7 @@ ORCID: 0000-0003-4940-886X
 - Living in the Environment, 18th Edition (Chapter 4: Biodiversity and Evolution. Chapter 5: Biodiversity, Species Interactions, and Population Control.). [Amazon](https://www.amazon.co.jp/最新環境百科-松田-裕之/dp/4621300016)  
 
 ## Research grants
+- Grant-in-Aid for Scientific Research (B), Co-PI, 2026-2029 (PI: Kouji Nakayama, JSPS KAKENHI Grant Number: 26H01761)
 - Grant-in-Aid for Scientific Research (B), Co-PI, 2025-2030 (PI: Takeshima Hirohiko, JSPS KAKENHI Grant Number: 25K02038)
 - Grant-in-Aid for Scientific Research (B), Co-PI, 2023-2026 (PI: Kouji Nakayama, JSPS KAKENHI Grant Number: 23H02233)
 - Grant-in-Aid for Scientific Research (C), PI, 2023-2026 (JSPS KAKENHI Grant Number: 23K05945)
