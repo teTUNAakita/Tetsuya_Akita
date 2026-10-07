@@ -26,6 +26,7 @@ ORCID: 0000-0003-4940-886X
 2001-2007, B.C. & M.C., Tokyo University of Agriculture and Technology. Advisor: Dr. Kenshi Sakai  
 
 ## Publications (with peered reviewed)
+- ___Akita, T.*___, submitted, Demographic stochasticity can drive population variability even in large populations, [PrePrint]()  
 - Wang, X., Uematsu, K., Nakamura, H., ___Akita, T.___, Kimura, K., Li, G., Lin, X., Zhang, D.,  Zhang, XH., Sun, C., Obernosterer, I., Tomaru, Y., Shao, Z., Voolstra, CR., Innan, H.\*, Luo, H.\*, accepted, Rapid Speciation Characterized by Incomplete Lineage Sorting in the Globally Distributed Bacterium _Sulfitobacter_, **Nature Communications**. 
 - Hirao, SA., Sakuma, K., ___Akita, T.___, Chiba, SN., accepted, Genetic population structure and demographic history of Pacific cod in Japanese waters: Implications for stock identification using SNP markers, **ICES Journal of Marine Science**. [PrePrint](https://doi.org/10.64898/2026.03.11.710969)  
 - ___Akita, T.*___, Tsukahara, Y., Tanaka, H., 2026, Inferring the number of spawning events from young-of-the-year genomic samples and otolith-derived birth dates: a richness-estimator perspective, **Fish and Fisheries**, faf.70112. [abstract (Open Access)](https://onlinelibrary.wiley.com/doi/10.1111/faf.70112)  
