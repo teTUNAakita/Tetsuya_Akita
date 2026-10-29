@@ -27,8 +27,8 @@ ORCID: 0000-0003-4940-886X
 
 ## Publications (with peered reviewed)
 - ___Akita, T.*___, submitted, Demographic stochasticity can drive population variability even in large populations, [PrePrint](https://www.biorxiv.org/content/10.64898/2026.10.07.757207v1)  
-- Wang, X., Uematsu, K., Nakamura, H., ___Akita, T.___, Kimura, K., Li, G., Lin, X., Zhang, D.,  Zhang, XH., Sun, C., Obernosterer, I., Tomaru, Y., Shao, Z., Voolstra, CR., Innan, H.\*, Luo, H.\*, accepted, Rapid Speciation Characterized by Incomplete Lineage Sorting in the Globally Distributed Bacterium _Sulfitobacter_, **Nature Communications**. 
-- Hirao, SA., Sakuma, K., ___Akita, T.___, Chiba, SN., 2026, Genetic population structure and demographic history of Pacific cod in Japanese waters: Implications for stock identification using SNP markers, **ICES Journal of Marine Science**, 83(10), fsag203. [abstract (Open Access)](https://doi.org/10.1093/icesjms/fsag203)  
+- Wang, X., Uematsu, K., Nakamura, H., ___Akita, T.___, Kimura, K., Li, G., Lin, X., Zhang, D.,  Zhang, XH., Sun, C., Obernosterer, I., Tomaru, Y., Shao, Z., Voolstra, CR., Innan, H.*, Luo, H.*, accepted, Rapid Speciation Characterized by Incomplete Lineage Sorting in the Globally Distributed Bacterium _Sulfitobacter_, **Nature Communications**. 
+- Hirao, SA., Sakuma, K., ___Akita, T.___, Chiba, SN.*, 2026, Genetic population structure and demographic history of Pacific cod in Japanese waters: Implications for stock identification using SNP markers, **ICES Journal of Marine Science**, 83(10), fsag203. [abstract (Open Access)](https://doi.org/10.1093/icesjms/fsag203)  
 - ___Akita, T.*___, Tsukahara, Y., Tanaka, H., 2026, Inferring the number of spawning events from young-of-the-year genomic samples and otolith-derived birth dates: a richness-estimator perspective, **Fish and Fisheries**, 27(6), 1283–1289. [abstract (Open Access)](https://onlinelibrary.wiley.com/doi/10.1111/faf.70112)  
 - ___Akita, T.*___, 2025, A theoretical framework linking the effective number of breeders to demographic stochasticity in iteroparous species, **Genetics**, 231(2), iyaf152. [abstract (Freely Available)](https://doi.org/10.1093/genetics/iyaf152), **[Research Highlight](https://www.fra.go.jp/home/kenkyushokai/ronbun/2025/20250804.html)**  
 - ___Akita, T.*___, Wang, J., 2025, Preface for the special feature on “Ecological perspectives of pedigree reconstruction with genome-wide data”, **Population Ecology**, 67(2), 93–95. [abstract](https://doi.org/10.1002/1438-390X.12207)  
@@ -85,7 +85,7 @@ ORCID: 0000-0003-4940-886X
 - Grant-in-Aid for JSPS Research Fellow (DC1), 2007-2009 (JSPS KAKENHI Grant Number: 07J55231)  
 
 ## Referee for:
-Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, Proceedings of the Japan Academy B, Evolutionary Applications, Chaos Solitons and Fractals, Population Ecology, Ecology and Evolution, Molecular Ecology, Molecular Ecology Resources, ICES Journal of Marine Science, etc...
+Journal of Theoretical Biology, Evolution, Molecular Biology and Evolution, International Journal of Evolutionary Biology, Journal of Evolutionary Biology, Journal of Molecular Evolution, Journal of Plant Ecology, Fisheries Science, Frontiers in Marine Science, Proceedings of the Japan Academy B, Evolutionary Applications, Chaos Solitons and Fractals, Population Ecology, Ecology and Evolution, Molecular Ecology, Molecular Ecology Resources, ICES Journal of Marine Science, Ichthyological Research, etc...
 
 # Journals[](コメントアウトされているのはインパクトファクター値)  
 
